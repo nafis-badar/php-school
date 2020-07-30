@@ -1,0 +1,14 @@
+COPY SMS FOLDER TO WAMP64/WWW
+step1: INSTALL WAMP 64 INTO D:
+STEP2: RUN WAMP 64 WAIT FOR LOGO IN TASKBAR TO BE GREEN
+STEP3: LEFT CLICK AND SELECT PHP VERSION 7.0.10
+STEP 4: RESTART ALL SERVICES
+STEP 5: LAUCH PHP MY ADMIN(START WAMPSERVER 64) -RUN OR FROM TASK BAR.
+user name : "root" , password: ""(blank)
+STAEP6: HOME- USER ACCOUNT-NEW-DATABASE NAME( SMS)-CREATE-
+STEP6: CLICK (SMS)-IMPORT-CHOOSE FILE-FROM PENDRIVE(SMS.SQL)-GO
+STEP7:USER ACCOUNT CREATION- (NAME: SMSUser,PASSWORD: Random01)(existing)
+
+changing user id password: php myadmin- (click- home)-user account- add user account-user name- password repeat- grant all access(checkall)- go(right hand bottom)
+
+Admin-pass
